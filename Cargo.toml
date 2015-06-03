@@ -1,0 +1,15 @@
+[package]
+
+name = "bud"
+version = "0.0.1"
+authors = ["David Irvine <david.irvine@maidsafe.net>"]
+description = "A DSL for distributed computing"
+documentation = "http://dirvine.github.io/bud/"
+repository = "https://github.com/dirvine/bud"
+readme = "README.md"
+license = "GPL-3.0"
+homepage = "http://maidsafe.net"
+
+
+[dependencies]
+
